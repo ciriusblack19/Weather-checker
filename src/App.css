@@ -1,12 +1,13 @@
+
 .App {
   display: flex;
   flex-direction: column;
-  justify-content: space-around;
+  justify-content: center;
   align-items: center;
   background-size: cover;
   background-position: center;
+  background-color: #282c34;
   height: 100vh;
-
 }
 
 .App-logo {
